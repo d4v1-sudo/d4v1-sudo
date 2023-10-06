@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d4v1-sudo
-- 👀 I’m interested in python
+- 👀 I’m interested in python and javascript
 - 🌱 I’m currently learning javascript and golang
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me: discord: d4.v1
