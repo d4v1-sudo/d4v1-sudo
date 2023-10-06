@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d4v1-sudo
+- 👋 Hi, I’m Davi Swarovsky Dal Pont
 - 👀 I’m interested in python and javascript
 - 🌱 I’m currently learning javascript and golang
 - 💞️ I’m looking to collaborate on python projects
