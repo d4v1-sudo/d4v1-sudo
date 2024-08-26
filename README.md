@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davi
 - 👀 I’m interested in python and html codes development
-- 🌱 I’m currently learning web 3D development
+- 🌱 I’m currently learning C++ and web 3D development
 - 💞️ I’m looking to collaborate on python and web projects
 
 <a href="https://github.com/d4v1-sudo">
