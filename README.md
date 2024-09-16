@@ -5,6 +5,8 @@
 
 <body>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.js"></script>
+
 <div class="typed-container">
     <span id="typed"></span>
 </div>
